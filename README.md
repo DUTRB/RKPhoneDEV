@@ -16,9 +16,9 @@
 | :---------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="README.assets/tspi-pic.jpg" style="zoom: 50%;" /> | <img src="README.assets/exp-board.png" style="zoom: 33%;" /> |
 
-<img src="README.assets/实物01-17239640342261.jpg" style="zoom:50%;" />
 
 
+![](README.assets/实物01-17239646077192.jpg)
 
 
 
