@@ -12,9 +12,15 @@
 
 ## 3. 项目展示
 
-| 主控板 RK3566                                              | 扩展功能板                                                   |
-| ---------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="README.assets/tspi-pic.jpg" style="zoom:50%;" /> | <img src="README.assets/exp-board.png" style="zoom: 33%;" /> |
+|                        主控板 RK3566                        | 扩展功能板                                                   |
+| :---------------------------------------------------------: | ------------------------------------------------------------ |
+| <img src="README.assets/tspi-pic.jpg" style="zoom: 50%;" /> | <img src="README.assets/exp-board.png" style="zoom: 33%;" /> |
+
+<img src="README.assets/实物01-17239640342261.jpg" style="zoom:50%;" />
+
+
+
+
 
 ### 扩展资源
 
@@ -35,3 +41,8 @@
 
 ## 5. 资源链接
 
+[泰山派手机综合项目](https://lceda001.feishu.cn/wiki/K51kwVQ9ViBTeDkYmsRc0YOLnle)
+
+[3.1寸屏幕扩展板](https://oshwhub.com/fengmoxi/tai-shan-pai-3-1-cun-ping-mu-kuo-zhan-ban)
+
+[泰山派底部4G_HUB2.0_ET100_HS扩展板](https://oshwhub.com/li-chuang-kai-fa-ban/tai-shan-pai-di-bu-4g_hub2-0_et100_hs-kuo-zhan-ban)
