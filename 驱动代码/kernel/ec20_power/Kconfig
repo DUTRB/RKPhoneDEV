@@ -1,0 +1,7 @@
+config EC20_POWER
+        tristate "EC20 POWER"
+	depends on GPIOLIB
+	default n
+	help
+	  Say Y here if you have EC20 module.
+	  If unsure, say N.
